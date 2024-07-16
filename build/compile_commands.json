@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/check_brackets.dir/main.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/main.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/main.cpp",
+  "output": "CMakeFiles/check_brackets.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/check_brackets_list.dir/main_list.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/main_list.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/main_list.cpp",
+  "output": "CMakeFiles/check_brackets_list.dir/main_list.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_list.dir/test_DSList.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSList.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSList.cpp",
+  "output": "CMakeFiles/tests_list.dir/test_DSList.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_stack_list.dir/test_DSStack_list.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSStack_list.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSStack_list.cpp",
+  "output": "CMakeFiles/tests_stack_list.dir/test_DSStack_list.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_stack.dir/test_DSStack_array.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSStack_array.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_DSStack_array.cpp",
+  "output": "CMakeFiles/tests_stack.dir/test_DSStack_array.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_checker.dir/test_main.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_main.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_main.cpp",
+  "output": "CMakeFiles/tests_checker.dir/test_main.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/tests_checker_list.dir/test_main_list.cpp.o -c /Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_main_list.cpp",
+  "file": "/Users/hamnatameez/assignment-3-do-my-brackets-match-htameez/test_main_list.cpp",
+  "output": "CMakeFiles/tests_checker_list.dir/test_main_list.cpp.o"
+}
+]
